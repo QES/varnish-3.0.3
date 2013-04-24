@@ -1,3 +1,10 @@
+This version is based on the standard 3.0.3 code with the SoftBans added
+
+This is a test version which is not yet running 100% perfectly.
+
+
+                  -------------------------------
+
 This is Varnish Cache, the high-performance HTTP accelerator.
 
 Documentation and additional information about Varnish is available on
